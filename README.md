@@ -1,16 +1,16 @@
-# 🗃️ Atividade 1 — EDA com Pandas: Emendas Parlamentares
+# Atividade 1 — EDA com Pandas: Emendas Parlamentares
 
 Atividade prática da disciplina **Introdução à Ciência de Dados**, ministrada pelo professor **Pedro Mello**.
 
 ---
 
-## 📋 Descrição
+## Descrição
 
 Análise exploratória de dados (EDA) aplicada a um dataset real de **emendas parlamentares brasileiras**, utilizando os comandos básicos da biblioteca **Pandas**. O objetivo é familiarizar o estudante com inspeção, leitura e interpretação inicial de um dataset.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 **Arquivo:** `emendas.csv`  
 **Registros:** ~88.596 linhas
@@ -45,7 +45,7 @@ Análise exploratória de dados (EDA) aplicada a um dataset real de **emendas pa
 
 ---
 
-## 🧪 Exercícios
+## Exercícios
 
 A atividade cobre 9 exercícios de EDA:
 
@@ -61,15 +61,15 @@ A atividade cobre 9 exercícios de EDA:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- Python 3
+- Python 
 - [Pandas](https://pandas.pydata.org/)
 - Jupyter Notebook / Google Colab
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Coloque o arquivo `emendas.csv` no mesmo diretório do notebook (ou ajuste o caminho no código).
 
@@ -82,7 +82,7 @@ A atividade cobre 9 exercícios de EDA:
 
 ---
 
-## 📚 Disciplina
+## Disciplina
 
 **Introdução à Ciência de Dados**  
 Professor: Pedro Mello
